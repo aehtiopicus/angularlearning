@@ -1,0 +1,11 @@
+Directive: is a marker on a HTML tag that tells Angular to run or reference js.
+Modules: pieces of Angular application and dependencies
+
+	var app = angular.module('store'.[]);
+	angular === AngularJs,
+	'store' === Application Name
+	[] == Dependencies
+
+Expression: insert dynamic values into your html
+
+Controllers: are where we define our apps behavior by functions and values
